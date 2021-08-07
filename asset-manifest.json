@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ClockApp/static/css/main.cf84d14e.chunk.css",
+    "main.js": "/ClockApp/static/js/main.54c5fe6f.chunk.js",
+    "main.js.map": "/ClockApp/static/js/main.54c5fe6f.chunk.js.map",
+    "runtime-main.js": "/ClockApp/static/js/runtime-main.131d2ac4.js",
+    "runtime-main.js.map": "/ClockApp/static/js/runtime-main.131d2ac4.js.map",
+    "static/js/2.10c789ee.chunk.js": "/ClockApp/static/js/2.10c789ee.chunk.js",
+    "static/js/2.10c789ee.chunk.js.map": "/ClockApp/static/js/2.10c789ee.chunk.js.map",
+    "static/js/3.0e83a2bd.chunk.js": "/ClockApp/static/js/3.0e83a2bd.chunk.js",
+    "static/js/3.0e83a2bd.chunk.js.map": "/ClockApp/static/js/3.0e83a2bd.chunk.js.map",
+    "index.html": "/ClockApp/index.html",
+    "static/css/main.cf84d14e.chunk.css.map": "/ClockApp/static/css/main.cf84d14e.chunk.css.map",
+    "static/js/2.10c789ee.chunk.js.LICENSE.txt": "/ClockApp/static/js/2.10c789ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.131d2ac4.js",
+    "static/js/2.10c789ee.chunk.js",
+    "static/css/main.cf84d14e.chunk.css",
+    "static/js/main.54c5fe6f.chunk.js"
+  ]
+}
